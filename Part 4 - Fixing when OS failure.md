@@ -15,6 +15,7 @@
     ```
 
 5. **Put disk and parity mount and merge all partitions**
+
     5.1 **Create folders**
     ```bash
     sudo mkdir /mnt/disk{1,2,3}
@@ -50,6 +51,7 @@
     ```
 
 6. **Nextcloud**
+
     6.1 **Install Nextcloud**
     ```bash
     sudo snap install nextcloud
@@ -124,7 +126,8 @@
     exclude *.!sync
     ```
 
-9. **Check sync data**
+9.  **Check sync data**
+
     9.1 **Check**
     ```bash
     sudo snapraid -d d1 -a check
