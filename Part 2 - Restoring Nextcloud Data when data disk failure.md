@@ -1,4 +1,4 @@
-# Restoring Nextcloud Data when data disk failure using SnapRAID
+# Part 2 - Restoring Nextcloud Data when data disk failure using SnapRAID
 
 1. **Replace new harddisk with the failed harddrive**
 

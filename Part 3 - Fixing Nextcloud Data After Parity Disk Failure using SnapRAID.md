@@ -1,4 +1,4 @@
-# Fixing Nextclou data after data disk failure using SnapRAID
+# Part 3 - Fixing Nextclou data after data disk failure using SnapRAID
 
 1. **Replace new harddisk with the failed harddrive**
 

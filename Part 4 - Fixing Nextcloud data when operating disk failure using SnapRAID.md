@@ -1,4 +1,4 @@
-# Server Setup Instructions
+# Part 4 - Fixing Nextcloud data when operating disk failure using SnapRAID
 
 1. **Replace new harddisk with the failed harddrive**
 
